@@ -11,6 +11,6 @@ silahkan semua file yang di download ditaruh di htdoc
 Silahkan di download di di manfaatkan untuk pembelajaran dsb.
 
 Aplikasi ini cukup sederhana, dan dapat dikembangkan lebih baik lagi kedepannya.
-Jika ada permintaan pengembangan / perubahan lebih lanjut bisa kontak saya di erfansfaris@yahoo.co.id 
+Jika ada permintaan pengembangan / perubahan lebih lanjut bisa kontak saya di erfansfaris@gmail.com 
 
 Terimakasih :)
