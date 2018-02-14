@@ -3,8 +3,8 @@ Apliaski Web PSB Online
 -----------------------------------
 
 Aplikasi ini dikembangkan dengan CI 3.x
-db sudah terlampir psb.sql
-silahkan semua file yang di download ditaruh di htdoc
+DB sudah terlampir psb.sql di dalam folder db
+Taruh file yang telah didownload di htdocs
 
 ++++++++
 
