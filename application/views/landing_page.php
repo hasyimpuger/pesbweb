@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css">
-	<script src="<?php echo base_url() ?>assets/js/jquery-3.3.1.min.js"></script>
+	<script src="<?php echo base_url() ?>assets/js/jquery.min.js"></script>
 	<script src="<?php echo base_url() ?>assets/js/bootstrap.min.js"></script>
 </head>
 <style type="text/css">
@@ -94,7 +94,7 @@
 		</div>
 	</div>
 	<footer class="container-fluid footer-info">
-		<p class="text-center">&copy 2016 - <a href="#">SMAN erfanwebs</a></p>
+		<p class="text-center">&copy 2016 - <a href="mailto:erfansfaris@yahoo.co.id" tooltip="erfansfaris@yahoo.co.id">erfanwebs</a></p>
 		<p class="text-center kecil">Seleksi Pendaftaran Siswa Baru Online SMAN erfanwebs</p>
 	</footer>
 

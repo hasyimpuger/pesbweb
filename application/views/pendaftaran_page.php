@@ -2,12 +2,12 @@
 <html>
 <head>
 	<title>Pendaftaran-PSB Online SMAN 05 </title>
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/font-awesome.min.css">
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap-datepicker3.css">
+	<title>Pendaftaran-PSB Online SMAN 05 Muko Muko</title>
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/style.css">
-	<script src="<?php echo base_url() ?>assets/js/jquery-3.3.1.min.js"></script>
-	<script src="<?php echo base_url() ?>assets/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap-datepicker3.css">
+	<script src="<?php echo base_url() ?>assets/js/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<script src="<?php echo base_url() ?>assets/js/bootstrap-datepicker.js"></script>
 </head>
 <body>
